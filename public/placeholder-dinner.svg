@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="tbl" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A3425" />
+      <stop offset="100%" stop-color="#261A12" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#tbl)" />
+  <circle cx="200" cy="220" r="70" fill="#E6D3B8" opacity="0.9" />
+  <circle cx="380" cy="180" r="85" fill="#FAF0DE" opacity="0.95" />
+  <circle cx="560" cy="240" r="65" fill="#E8D7BE" opacity="0.9" />
+  <circle cx="440" cy="340" r="75" fill="#F4E6D2" opacity="0.95" />
+  <text x="50%" y="88%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="600" letter-spacing="1">FELLOWSHIP &amp; SHARED MEALS</text>
+</svg>

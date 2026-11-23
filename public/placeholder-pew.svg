@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900" fill="none">
+  <defs>
+    <linearGradient id="wood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2DEC9" />
+      <stop offset="40%" stop-color="#D9A877" />
+      <stop offset="100%" stop-color="#8C5326" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="900" fill="url(#wood)" />
+  <path d="M50 200 C 250 150, 550 400, 750 700 L 750 900 L 50 900 Z" fill="#6E3D19" opacity="0.4" />
+  <path d="M100 240 C 280 200, 520 440, 700 720" stroke="#FFF" stroke-width="4" opacity="0.3" stroke-dasharray="10 10" />
+  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="20" font-weight="600">SANCTUARY SEATING</text>
+  <text x="50%" y="83%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" opacity="0.85" font-family="system-ui, sans-serif" font-size="14">A Place for You in Edgware</text>
+</svg>
